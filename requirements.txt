@@ -1,0 +1,7 @@
+pynput
+pyaudio
+chardet
+websocket-client
+pycparser==2.19
+six==1.12.0
+websocket==0.2.1
